@@ -1,4 +1,4 @@
-![Current tag](https://img.shields.io/github/tag/thermistor/thermistor-ansible-yarn.svg)
+![Current tag](https://img.shields.io/github/v/tag/thermistor/ansible-yarn?sort=semver)
 
 # yarn
 
